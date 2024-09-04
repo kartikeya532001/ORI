@@ -3,10 +3,10 @@
 	"name": "ABCD",
 	"email": "abcd@test.com",
 	"phone": "987654321",
-	"city": "Mangalore",
-	"state": "karnataka",
+	"city": "Dehradun",
+	"state": "Uttrakhand",
 	"country": "India",
-	"organization": "Company 2",
-	"jobProfile": "Software Developer",
-	"additionalInfo": "Buys Products Rarely"
+	"organization": "Infomo",
+	"jobProfile": "Devops",
+	"additionalInfo": "Has Bought a lot of products before and a high Value Customer"
 }

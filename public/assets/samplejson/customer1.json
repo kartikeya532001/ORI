@@ -1,12 +1,12 @@
 {
 	"id": 1,
-	"name": "John Smith",
-	"email": "jsmith@test.com",
-	"phone": "123456789",
-	"city": "bangalore",
-	"state": "karnataka",
+	"name": "Kartikeya Khanna",
+	"email": "Kartikeya532001@gmail.com",
+	"phone": "8445033959",
+	"city": "Dehradun",
+	"state": "Uttrakhand",
 	"country": "India",
-	"organization": "Company 1",
-	"jobProfile": "Software Developer",
+	"organization": "Infomo",
+	"jobProfile": "Devops",
 	"additionalInfo": "Has Bought a lot of products before and a high Value Customer"
 }
